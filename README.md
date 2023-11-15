@@ -4,4 +4,3 @@ The E-commerce Sales Dashboards project aimed to provide comprehensive insights 
 
 
 
-[Uploading Ecommerce Sales Dashboard.pdf…]()
